@@ -1,1 +1,7 @@
-all the mechanical parts
+Item,Quantity,Cost,Source,Possible Substitutions
+"18-Gauge, 4 inch long blunt-tip needle with Female Luer Lock Connection",1,4.01,https://www.mcmaster.com/6710a44,
+"Standard Polyurethane Tubing, 1/8 inch OD, 1/16 inch ID, 25 ft, clear",1,5.25,https://www.mcmaster.com/5648k67,
+Male Luer to 1/16 inch Tubing Barb,1,11.9,https://www.amazon.com/Cole-Parmer-Male-luer-lock-Nylon/dp/B003NV7LFU,
+26-Gauge Luer-Lock Needle,1,12.18,https://www.mcmaster.com/75165a555,
+17-Gauge Luer-Lock Needle,1,12.25,https://www.mcmaster.com/75165a243,
+TOTAL,,45.59

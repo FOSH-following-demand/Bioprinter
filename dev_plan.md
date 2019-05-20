@@ -14,16 +14,8 @@ Use this file to store your plan for the program. What are you going to do, in w
 | 8           | Buffer week                     |               |
 
 
-# Syringe Pump plan
-
-We plan on using easy to use, off the shelf components, 3D printed parts, and easily accessible code to develop the pump. We want to create the pump in such a way that minimal skills will be required for the assembly and use. Therefore things such as soldering should be avoided. To avoid soldering we will be using an Arduino Mega board that has stepper motor drivers built in. We also want the unit to be self contained and not require the input from a computer to control the dispensing of the liquid.
-
- We also plan on using open sourced firmware that is originally for 3D printers for the syringe pump. That makes it so that we don't have to reinvent the wheel, and up to five syringe pumps can be controlled from a single control board. This also allows for upgrades to the pump if the user desires, such as endstops and thermal regulation. The use of 3D printer firmware allows for the user to create a program in the easy to learn language of G-Code that could complete a series of tasks, without the user having to interact with the pump controls.
-
- In harmony with the second part of our project, a 3D printed housing will be produced to house all of the electronics.
-
 # Bioprinter plan
 
-The components from the syringe pump will then be incorporated into a readily available DIY 3D printer. This syringe pump will be able to integrated with the printer's code with minimal modifications.
+The components from the syringe pump will be incorporated into a readily available DIY 3D printer. This syringe pump will be able to integrated with the printer's code with minimal modifications.
 
 We will then work on creating a guide to help others start bioprinting and then troubleshooting their prints.
