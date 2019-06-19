@@ -16,6 +16,4 @@ Use this file to store your plan for the program. What are you going to do, in w
 
 # Bioprinter plan
 
-The components from the syringe pump will be incorporated into a readily available DIY 3D printer. This syringe pump will be able to integrated with the printer's code with minimal modifications.
-
 We will then work on creating a guide to help others start bioprinting and then troubleshooting their prints.
