@@ -4,7 +4,7 @@
 <img src="https://github.com/FOSH-following-demand/Bioprinter/blob/master/Photos/IMG_6310.JPG" width="500"/>
 <h6 align="center">Syringe Pump integrated into a desktop 3D printer</h6>
 
-We are a team of 4 people from Utah, USA. We creating a open source DIY [syringe pump](https://github.com/FOSH-following-demand/Syringe_Pump) from commonly available and 3D printed parts that allows for high accuracy and repeatability. We also want to make this project as simple as possible so that no specialized skills are required.
+We are a team of 4 people from Utah, USA. We creating a open source DIY [syringe pump](https://github.com/FOSH-following-demand/Syringe_Pump) from commonly available and 3D printed parts that allows for high accuracy and repeatability. We also want to make this project as simple as possible so that no specialized skills or tools are required.
 
 The syringe pump that will be built will then be able to be integrated with almost any commonly available DIY 3D printer to create a bioprinter. This approach gives two tools for the price of one, a syringe pump and a bioprinter extruder. If the bioprinter is the only thing that you are interested in, then you only have to print and purchase the parts that relate to your specific case.
 
