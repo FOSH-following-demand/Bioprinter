@@ -3,7 +3,7 @@
 If you haven't built the [syringe pump](https://github.com/FOSH-following-demand/Syringe_Pump) please reference the GitHub page for instructions on how to assemble the syringe pump.
 
 1. Purchase all of the parts from the [Bills of Materials](Bill_of_Materials)
-1. 3D print all the necessary [parts](Frame)
+1. 3D print all the necessary [parts](Frame). Note that the parts here were designed for a modular X-Carriage that should work with printers that use aluminum extrusions and wheels. Please ensure that they will work with your own printer, otherwise some custom design might be needed for you situation. For this purpose the STEP file for the needle mount has been included.
 1. Assemble the syringe pump body by following the directions found [here](https://www.sciencedirect.com/science/article/pii/S2468067217300822#!). Please
 refer to [troubleshooting](Troubleshooting.md) for any problems that you encounter as we discovered a few quirks with the assembly described in the paper.
 1. Remove the plug from the 3D printer extruder stepper motor
@@ -21,6 +21,7 @@ refer to [troubleshooting](Troubleshooting.md) for any problems that you encount
 <img src="https://github.com/FOSH-following-demand/Bioprinter/blob/master/Photos/IMG_6310.JPG" width="500"/>
 <h6 align="center">Syringe Pump next to the printer</h6>
 
+1. Attach the tubing and needles as instructed in the [LVE](https://www.sciencedirect.com/science/article/pii/S2468067217300822#!)
 1. Follow the [instructions](Getting_Started.md) to start using your bioprinter
 1. [Calibrate](Calibration.md) your extruder
 1. Do awesome science!!!
