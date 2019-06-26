@@ -22,3 +22,4 @@ Follow these links to learn about this project, and to get started building your
 - [Troubleshooting](Troubleshooting.md)
 - [Calibration](Calibration.md)
 - [Using your new bioprinter](Getting_Started.md)
+- [Helpful Links](Helpful_links.md)
