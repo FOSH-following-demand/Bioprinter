@@ -10,6 +10,8 @@ The syringe pump that will be built will then be able to be integrated with almo
 
 We then aim to create a guide to help troubleshoot common issues with creating good quality bioprints, and hopefully make bioprinting more accessible to those who are interested.
 
+If you have any questions or want to get involved, get in contact with us via email at drewcliffporter@gmail.com
+
 ### Getting Started
 
 Follow these links to get started building your own bioprinter
